@@ -1,9 +1,9 @@
-## Playlist Sync
+# Playlist Sync
 
-UI
+## UI
 
-Youtube-to-Spotify
+### Youtube-to-Spotify
 ![Alt text](images/Youtube.png)
 
-Spotify-to-Youtube
+### Spotify-to-Youtube
 ![Alt text](images/Spotify.png)
